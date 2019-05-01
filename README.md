@@ -1,5 +1,9 @@
 # CS52 Workshops: Cool APIs!
 
+Finished Project:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ![api gif](readme-content/gifs/api1.gif)
 
 The Internet is an amazing place. In part because things like this exist:
