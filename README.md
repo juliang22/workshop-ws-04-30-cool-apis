@@ -2,7 +2,7 @@
 
 Finished Project:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/juliang22/workshop-ws-04-30-cool-apis/blob/master/finished.jpg "finished")
 
 ![api gif](readme-content/gifs/api1.gif)
 
